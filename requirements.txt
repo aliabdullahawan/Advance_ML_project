@@ -1,0 +1,65 @@
+# Foundations & Classical ML
+numpy
+pandas
+scipy
+seaborn
+matplotlib
+polar
+pyarrow
+fg-data-profiling
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Deep Learning & Vision
+torch
+torchvision
+
+# NLP & GenAI
+transformers
+spacy
+
+# AutoML & Prototyping
+pycaret
+
+# --- CORE ML & FRAMEWORKS ---
+numpy
+pandas
+scipy
+scikit-learn
+xgboost
+lightgbm
+catboost
+torch
+torchvision
+transformers
+spacy
+pycaret
+
+# --- EXPLORATORY DATA ANALYSIS (EDA) ---
+ydata-profiling
+sweetviz
+lux-api
+missingno
+
+# --- FEATURE ENGINEERING ---
+featuretools
+category_encoders
+
+# --- DATA VISUALIZATION ---
+matplotlib
+seaborn
+plotly
+
+# --- DATA ACCESS & FILE HANDLING ---
+sqlalchemy
+openpyxl
+
+# --- DEVELOPMENT, DEPLOYMENT & TESTING ---
+jupyter
+ipykernel
+joblib
+fastapi
+uvicorn
+pytest
